@@ -13,6 +13,5 @@ Code re builds when there's a change in the code base and browser refreshes auto
 ### `npm run build` or `yarn build`
 Run the above for production build which would create a build folder where the build files would be, only run this in production environment
 
-### For more information visit the links below
-https://blog.skay.dev/a-basic-introduction-to-webpack
+### For more information visit the link below
 https://webpack.js.org/concepts/
